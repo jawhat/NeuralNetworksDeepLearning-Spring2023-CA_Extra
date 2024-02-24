@@ -11,13 +11,12 @@
 - Q1: GRU, LSTM
 - Papers:
   - [A Deep Learning-based Cryptocurrency Price Prediction Scheme for Financial
-    Institutions ](https://www.sciencedirect.com/science/article/abs/pii/S2214212620307535)
+    Institutions](https://www.sciencedirect.com/science/article/abs/pii/S2214212620307535)
 
 -Q2: ResNet50
 
 - Papers:
-  - [A Deep Learning-based Cryptocurrency Price Prediction Scheme for Financial
-    Institutions ](https://www.sciencedirect.com/science/article/abs/pii/S2214212620307535)
+  - [Video Surveillance for Violence Detection Using Deep Learning](https://link.springer.com/chapter/10.1007/978-981-15-0978-0_40)
 
 ## Authors
 
